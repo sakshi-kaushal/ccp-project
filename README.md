@@ -1,2 +1,3 @@
 # ccp-project
-this is my 1st git Repository
+This is my 1st Git Repository.
+Authors: Sakshi-Kaushal
